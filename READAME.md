@@ -1,14 +1,14 @@
-### Hi, I'm @[nitipoomph_GITHUB_HANDLE]! 👋
+### Hi, I'm @nitipoomph 👋
 
 * 💡 I'm interested in **Software Development and Interaction Design**.
-* 💻 I'm currently learning **Web and Mobile development frameworks**.
-* 🌱 I'm building projects related to **[YOUR CURRENT FOCUS AREA]**.
+* 💻 I'm currently developing a **full-stack Wedding Management System**.
+* 🌱 I'm focused on learning **Web and Mobile development frameworks used in this project**.
 * 🤝 I'm looking to collaborate on **open-source projects**.
-* 📧 How to reach me: **[nitipoom.ph@ku.th]** 
+* 📧 How to reach me >> **nitipoom.ph@ku.th** 
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 
 | Tools/Languages | Icon Badges |
 | :--- | :--- |
@@ -17,11 +17,20 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  |
 | **Cloud/DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  |
 
----
 
-## 🔗 Find Me Around the Web:
+## 🔗 More
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Connect with me on LinkedIn]([https://www.linkedin.com/in/nitipoom-phunphong-b96291284/]) |
-| **Personal Blog/Portfolio** | [Visit my Website]([https://camo.githubusercontent.com/0edbf535e9c56d3a014c447119263924983a28498dbb02b9c977d915394bac3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f676765722d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465]) |
+<p align="left">
+    <a href="[ลิงก์ไปยังบล็อกเกอร์ของคุณ]" target="_blank">
+        <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
+    </a>
+    <a href="[ลิงก์ไปยัง GitHub ของคุณ]" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="[ลิงก์ไปยัง Visual Studio Code marketplace/โปรไฟล์ของคุณ]" target="_blank">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    </a>
+    <a href="[https://www.linkedin.com/in/nitipoom-phunphong-b96291284/]" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</p>
